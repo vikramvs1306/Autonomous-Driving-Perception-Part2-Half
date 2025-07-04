@@ -123,6 +123,7 @@ https://github.com/user-attachments/assets/18d13427-8458-4658-9b05-c885c4553f73
 https://github.com/user-attachments/assets/61e61170-8cb0-4649-ad07-956de2df4efe
 
 **4. Center line of the Road lane**
+Click on the link to view the image
 
 https://github.com/user-attachments/assets/020c6e92-b9f1-434c-9607-97c996127a3f
 
