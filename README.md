@@ -1,6 +1,3 @@
-# Autonomous Navigation into 3D map
-Autonomous navigation from scratch
-More updates coming soon
 
 # Introduction
 
@@ -125,7 +122,9 @@ https://github.com/user-attachments/assets/18d13427-8458-4658-9b05-c885c4553f73
 
 https://github.com/user-attachments/assets/61e61170-8cb0-4649-ad07-956de2df4efe
 
-## Current Status
-<p align="justify"> Global path planning is yet to be achieved in this project. However, we have successfully implemented the local planner for obstacle avoidance, real-time video segmentation, and autonomous movement according to traffic signs, such as stopping, turning, and moving straight.</p>
+**4. Center line of the Road lane**
+
+https://github.com/user-attachments/assets/020c6e92-b9f1-434c-9607-97c996127a3f
+
 
 
